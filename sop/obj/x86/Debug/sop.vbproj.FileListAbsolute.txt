@@ -1,0 +1,32 @@
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\bin\Debug\sop.exe.config
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\bin\Debug\sop.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\bin\Debug\sop.pdb
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\bin\Debug\sop.xml
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.Barang.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.Cetak.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.Dashboard.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.Laporan.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.Transaksi.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.xml
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\sop\sop\obj\x86\Debug\sop.pdb
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\bin\Debug\sop.exe.config
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.exe
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.xml
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.pdb
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\bin\Debug\sop.exe
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\bin\Debug\sop.pdb
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\bin\Debug\sop.xml
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.vbprojResolveAssemblyReference.cache
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.Form1.resources
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.Barang.resources
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.Cetak.resources
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.Dashboard.resources
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.Laporan.resources
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.Transaksi.resources
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.Resources.resources
+D:\BaleeDev\Visual Studio Code 2010\Projek\sop\sop\obj\x86\Debug\sop.vbproj.GenerateResource.Cache
