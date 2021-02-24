@@ -12,3 +12,4 @@ Fitur :
 lengkap dengan database.
 @BaleeDev
 Follow IG me https://instagram.com/baleedev?igshid=zg6q1tmyudv0
+#sekian%
